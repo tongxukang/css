@@ -1,0 +1,26 @@
+{
+    "name": "uniapp浏览器",
+    "version": "2.6.3",
+    "description": "一个使用uniapp开发的浏览器，拥有完整的浏览器体验",
+    "main": "main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "浏览器",
+        "文件浏览",
+        "脚本",
+        "编辑器",
+        "webview"
+    ],
+    "author": "Xianxu",
+    "license": "MIT",
+    "id": "xianxu-unibrowser",
+    "displayName": "uniapp浏览器",
+    "dcloudext": {
+        "category": [
+            "uni-app前端模板",
+            "uni-app前端项目模板"
+        ]
+    }
+}
